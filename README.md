@@ -1,0 +1,1 @@
+This is a copy of the FCC site.  It has background images and menus.  It is a template.
